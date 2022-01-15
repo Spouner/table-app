@@ -26,5 +26,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
+Open et edit dans Spck editor
 
-On edit directement sur git 
