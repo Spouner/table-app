@@ -1,5 +1,7 @@
 # table-app
 
+https://github.com/Spouner/table-app.git
+
 ## Project setup
 ```
 npm install
